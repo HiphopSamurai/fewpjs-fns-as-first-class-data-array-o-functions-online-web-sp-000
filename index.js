@@ -11,7 +11,7 @@ function walkToPark() {
 }
 
 function throwFrisbee() {
-
+  return
 }
 
 function walkHome() {
