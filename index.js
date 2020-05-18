@@ -15,7 +15,7 @@ function throwFrisbee() {
 }
 
 function walkHome() {
-
+  return
 }
 
 function unleashDog() {
