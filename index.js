@@ -3,21 +3,21 @@ function wakeDog(dogName, dogBreed) {
 }
 
 function leashDog() {
-  
+
 }
 
 function walkToPark() {
-  
+
 }
 
 function throwFrisbee() {
-  
+
 }
 
 function walkHome() {
-  
+
 }
 
 function unleashDog() {
-  
+
 }
