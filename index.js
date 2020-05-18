@@ -2,22 +2,22 @@ function wakeDog(dogName, dogBreed) {
   return "Wake " + dogName + " the " + dogBreed;
 }
 
-function leashDog() {
+function leashDog(dogName, dogBreed) {
   return
 }
 
-function walkToPark() {
+function walkToPark(dogName, dogBreed) {
   return
 }
 
-function throwFrisbee() {
+function throwFrisbee(dogName, dogBreed) {
   return
 }
 
-function walkHome() {
+function walkHome(dogName, dogBreed) {
   return
 }
 
-function unleashDog() {
+function unleashDog(dogName, dogBreed) {
   return
 }
