@@ -3,7 +3,7 @@ function wakeDog(dogName, dogBreed) {
 }
 
 function leashDog() {
-
+  return
 }
 
 function walkToPark() {
