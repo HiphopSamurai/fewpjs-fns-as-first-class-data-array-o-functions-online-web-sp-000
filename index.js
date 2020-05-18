@@ -19,5 +19,5 @@ function walkHome() {
 }
 
 function unleashDog() {
-
+  return
 }
