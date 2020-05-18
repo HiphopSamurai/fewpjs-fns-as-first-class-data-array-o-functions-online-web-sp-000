@@ -7,7 +7,7 @@ function leashDog() {
 }
 
 function walkToPark() {
-
+  return
 }
 
 function throwFrisbee() {
